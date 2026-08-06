@@ -4,15 +4,14 @@ layout: home
 
 hero:
   name: "Ringo"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  tagline: "A macOS configuration that rocks."
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: About Ringo
+      link: /pages/about-ringo
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Quickstart
+      link: /pages/getting-started
 
 features:
   - title: Feature A
