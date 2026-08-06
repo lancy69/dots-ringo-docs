@@ -4,8 +4,13 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Ringo',
   description: 'A macOS configuration that rocks.',
+
+  head: [['link', { rel: 'icon', href: '/favicon.svg' }]],
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/favicon.svg',
+
     sidebar: [
       {
         text: 'Introduction',
