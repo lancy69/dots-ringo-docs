@@ -18,7 +18,14 @@ export default defineConfig({
           { text: 'About Ringo', link: '/pages/about-ringo' },
           { text: 'Getting Started', link: '/pages/getting-started' }
         ]
-      }
+      },
+      {
+        text: 'Packages',
+        items: [
+          { text: 'Karabiner-Elements', link: '/pages/karabiner-elements' },
+          { text: 'NeoVim', link: '/pages/neovim' }
+        ]
+      },
     ],
 
     socialLinks: [
