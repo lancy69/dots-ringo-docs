@@ -1,3 +1,3 @@
 # About Ringo
 
-![Ringo Showcase](../assets/ringo-showcase.png)
+![Ringo Showcase](/showcase.png)

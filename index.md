@@ -15,19 +15,19 @@ hero:
 
 features:
   - icon:
-      src: /assets/package-icons/karabiner.svg
+      src: /package-icons/karabiner.svg
       alt: karabiner-elements
     title: Karabiner-Elements
     details: A powerful and stable keyboard customizer for macOS.
     link: /pages/karabiner-elements
   - icon:
-      src: /assets/package-icons/ghostty.svg
+      src: /package-icons/ghostty.svg
       alt: ghostty
     title: Ghostty
     details: A fast, feature-rich, and cross-platform terminal emulator.
     link: /pages/ghostty
   - icon:
-      src: /assets/package-icons/neovim.svg
+      src: /package-icons/neovim.svg
       alt: neovim
     title: NeoVim
     details: A hyperextensible Vim-based text editor powered by Lua.
