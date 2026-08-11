@@ -23,6 +23,7 @@ export default defineConfig({
         text: 'Packages',
         items: [
           { text: 'Karabiner-Elements', link: '/pages/karabiner-elements' },
+          { text: 'Ghostty', link: '/pages/ghostty' },
           { text: 'NeoVim', link: '/pages/neovim' }
         ]
       },

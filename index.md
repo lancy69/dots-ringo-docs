@@ -21,9 +21,15 @@ features:
     details: A powerful and stable keyboard customizer for macOS.
     link: /pages/karabiner-elements
   - icon:
+      src: /assets/package-icons/ghostty.svg
+      alt: ghostty
+    title: Ghostty
+    details: A fast, feature-rich, and cross-platform terminal emulator.
+    link: /pages/ghostty
+  - icon:
       src: /assets/package-icons/neovim.svg
       alt: neovim
     title: NeoVim
-    details: Hyperextensible Vim-based text editor.
+    details: A hyperextensible Vim-based text editor powered by Lua.
     link: /pages/neovim
 ---
