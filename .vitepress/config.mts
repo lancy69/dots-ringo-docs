@@ -30,7 +30,9 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/lancy69/dots-ringo' }
+      { icon: 'github', link: 'https://github.com/lancy69/dots-ringo' },
+      { icon: 'mastodon', link: 'https://mastodon.social/@lancy69' },
+      { icon: 'telegram', link: 'https://t.me/lancy69' }
     ]
   }
 })
